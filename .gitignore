@@ -1,0 +1,18 @@
+# Ignore compiled Java bytecode files
+*.class
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore any backup files
+*~
+
+# Ignore any temporary files
+*.tmp
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
